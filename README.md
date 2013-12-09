@@ -1,7 +1,8 @@
 hookup
 ======
 
-Overview:
+Overview
+===
 Android App to Hookup with people nearby and having same interests to connect.
 So the rules are that people who will download and install this app, will have to fill one form about their interests and click "Search".
 
@@ -15,7 +16,8 @@ So, if the best match returns a good match, they both will be notified in their 
         They both will be given a chat window to chat and share their locations and personal information.
         
         
-Implementation Points:
+Implementation Points
+===
 1.  The app does not requires any sign-in or sign-out. It just needs to set a database in the client's device that contains his interests.
 2.  The app does not needs any personal information to store. The only way use can share their personal information is by explicitly telling to the other person in the chat window.
 3.  The first time the user runs the app, the app will store a random number in the client's device and store that random number in the database also. Upon each run the app will search for this random no. If it CAN find the random number, then it means that this is NOT the first run and hence they will directly will be taken to the control page where they can start the search.
