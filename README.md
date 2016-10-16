@@ -1,6 +1,10 @@
 hookup
 ======
 
+ABANDONED PROJECT
+=================
+THIS PROJECT IS IN UNFINISHED STATE AND NO NEW DEVELOPMENT WILL BE MADE.
+
 Overview
 ===
 Android App to Hookup with people nearby and having same interests to connect.
